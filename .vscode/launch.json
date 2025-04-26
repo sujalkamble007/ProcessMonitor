@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sujalkamble/Documents/C++",
+      "program": "/Users/sujalkamble/Documents/C++/build/Debug/outDebug"
+    }
+  ]
+}
