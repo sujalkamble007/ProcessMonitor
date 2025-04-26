@@ -57,6 +57,7 @@ void ProcessMonitor::displayProcesses() {
     while (true) {
         system("clear");
         fetchProcesses();
+        std ::cout<<"-------------------------------------------------------------------------------\n";
         sleep(5);
     }
 }
